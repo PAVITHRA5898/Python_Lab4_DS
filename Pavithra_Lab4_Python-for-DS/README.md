@@ -1,4 +1,4 @@
-# SanathChandra_Lab4_Python-for-DS
+# Pavithra_Lab4_Python-for-DS
 
 Project Context:
 Understanding customer personalities is pivotal in marketing. By categorizing customers into distinct segments based on their characteristics, organizations can tailor marketing efforts for maximum impact. This project utilizes a marketing campaign dataset to identify similar customer groups and offer strategic insights to enhance business strategies.
